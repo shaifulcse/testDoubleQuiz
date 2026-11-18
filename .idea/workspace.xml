@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac965b7e-2955-4e72-8678-41d15b2d86ab" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3MFwKlvABEIwQJ60UMRHnLexcsA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.CalculationTest.testCalSalaryMockitoStub.executor": "Run",
+    "JUnit.CalculationTest.testCalSalaryStub.executor": "Run",
+    "JUnit.SalaryAlertTest.testNotification1.executor": "Run",
+    "JUnit.SalaryAlertTest.testNotification2.executor": "Run",
+    "JUnit.SalaryAlertTest.testNotification3.executor": "Run",
+    "JUnit.SalaryAlertTest.testNotificationTriggered.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.SalaryAlertTest.testNotification3">
+    <configuration name="CalculationTest.testCalSalaryMockitoStub" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestDouble" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.CalculationTest" />
+      <option name="METHOD_NAME" value="testCalSalaryMockitoStub" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalaryAlertTest.testNotification1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestDouble" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="notification.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="notification" />
+      <option name="MAIN_CLASS_NAME" value="notification.SalaryAlertTest" />
+      <option name="METHOD_NAME" value="testNotification1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalaryAlertTest.testNotification2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestDouble" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="notification.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="notification" />
+      <option name="MAIN_CLASS_NAME" value="notification.SalaryAlertTest" />
+      <option name="METHOD_NAME" value="testNotification2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalaryAlertTest.testNotification3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestDouble" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="notification.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="notification" />
+      <option name="MAIN_CLASS_NAME" value="notification.SalaryAlertTest" />
+      <option name="METHOD_NAME" value="testNotification3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalaryAlertTest.testNotificationTriggered" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestDouble" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="notification.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="notification" />
+      <option name="MAIN_CLASS_NAME" value="notification.SalaryAlertTest" />
+      <option name="METHOD_NAME" value="testNotificationTriggered" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SalaryAlertTest.testNotification3" />
+        <item itemvalue="JUnit.SalaryAlertTest.testNotification2" />
+        <item itemvalue="JUnit.SalaryAlertTest.testNotification1" />
+        <item itemvalue="JUnit.SalaryAlertTest.testNotificationTriggered" />
+        <item itemvalue="JUnit.CalculationTest.testCalSalaryMockitoStub" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac965b7e-2955-4e72-8678-41d15b2d86ab" name="Changes" comment="" />
+      <created>1794959564615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794959564615</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/CalculationTest.java</url>
+          <line>24</line>
+          <properties class="org.example.CalculationTest" method="testCalSalaryStub">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
